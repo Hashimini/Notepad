@@ -1,17 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
-  <!-- 
-    Microsoft ResX Schema 
-    
+  <!--
+    Microsoft ResX Schema
+
     Version 2.0
-    
-    The primary goals of this format is to allow a simple XML format 
-    that is mostly human readable. The generation and parsing of the 
-    various data types are done through the TypeConverter classes 
+
+    The primary goals of this format is to allow a simple XML format
+    that is mostly human readable. The generation and parsing of the
+    various data types are done through the TypeConverter classes
     associated with the data types.
-    
+
     Example:
-    
+
     ... ado.net/XML headers & schema ...
     <resheader name="resmimetype">text/microsoft-resx</resheader>
     <resheader name="version">2.0</resheader>
@@ -26,36 +26,36 @@
         <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
         <comment>This is a comment</comment>
     </data>
-                
-    There are any number of "resheader" rows that contain simple 
+
+    There are any number of "resheader" rows that contain simple
     name/value pairs.
-    
-    Each data row contains a name, and value. The row also contains a 
-    type or mimetype. Type corresponds to a .NET class that support 
-    text/value conversion through the TypeConverter architecture. 
-    Classes that don't support this are serialized and stored with the 
+
+    Each data row contains a name, and value. The row also contains a
+    type or mimetype. Type corresponds to a .NET class that support
+    text/value conversion through the TypeConverter architecture.
+    Classes that don't support this are serialized and stored with the
     mimetype set.
-    
-    The mimetype is used for serialized objects, and tells the 
-    ResXResourceReader how to depersist the object. This is currently not 
+
+    The mimetype is used for serialized objects, and tells the
+    ResXResourceReader how to depersist the object. This is currently not
     extensible. For a given mimetype the value must be set accordingly:
-    
-    Note - application/x-microsoft.net.object.binary.base64 is the format 
-    that the ResXResourceWriter will generate, however the reader can 
+
+    Note - application/x-microsoft.net.object.binary.base64 is the format
+    that the ResXResourceWriter will generate, however the reader can
     read any of the formats listed below.
-    
+
     mimetype: application/x-microsoft.net.object.binary.base64
-    value   : The object must be serialized with 
+    value   : The object must be serialized with
             : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
             : and then encoded with base64 encoding.
-    
+
     mimetype: application/x-microsoft.net.object.soap.base64
-    value   : The object must be serialized with 
+    value   : The object must be serialized with
             : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
             : and then encoded with base64 encoding.
 
     mimetype: application/x-microsoft.net.object.bytearray.base64
-    value   : The object must be serialized into a byte array 
+    value   : The object must be serialized into a byte array
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.
     -->
@@ -117,73 +117,7 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="TextAbout" xml:space="preserve">
-    <value>Hi! This was made just as a passion personal little project 😊. You can see any updates on https://github.com/Hashimini/Notepad. And some instructions at the usage section.</value>
-  </data>
-  <data name="MenuAbout" xml:space="preserve">
-    <value>About</value>
-  </data>
-  <data name="MenuClose" xml:space="preserve">
-    <value>Exit</value>
-  </data>
-  <data name="MenuFile" xml:space="preserve">
-    <value>File</value>
-  </data>
-  <data name="MenuHelp" xml:space="preserve">
-    <value>Help</value>
-  </data>
-  <data name="MenuHowToUse" xml:space="preserve">
-    <value>Usage</value>
-  </data>
-  <data name="MenuNew" xml:space="preserve">
-    <value>New</value>
-  </data>
-  <data name="MenuOpen" xml:space="preserve">
-    <value>Open</value>
-  </data>
-  <data name="MenuSave" xml:space="preserve">
-    <value>Save</value>
-  </data>
-  <data name="TextHowToUse" xml:space="preserve">
-    <value>Its very simple. You can start writing and then go on File -&gt; Save, then you choose where to save and what name. You can also go on File -&gt; Open to load an already written File!.</value>
-  </data>
-  <data name="AccessibleDescriptionProgram" xml:space="preserve">
-    <value />
-  </data>
-  <data name="AccessibleNameProgram" xml:space="preserve">
-    <value />
-  </data>
-  <data name="AccessibleDescriptionMenuStrip" xml:space="preserve">
-    <value />
-  </data>
-  <data name="AccessibleNameMenuStrip" xml:space="preserve">
-    <value />
-  </data>
-  <data name="AccessibleDescriptionMenuFile" xml:space="preserve">
-    <value />
-  </data>
-  <data name="AccessibleNameMenuFile" xml:space="preserve">
-    <value />
-  </data>
-  <data name="AccessibleDescriptionMenuNew" xml:space="preserve">
-    <value />
-  </data>
-  <data name="AccessibleNameMenuNew" xml:space="preserve">
-    <value />
-  </data>
-  <data name="AccessibleDescriptionMenuOpen" xml:space="preserve">
-    <value />
-  </data>
-  <data name="AccessibleNameMenuOpen" xml:space="preserve">
-    <value />
-  </data>
-  <data name="AccessibleDescriptionClose" xml:space="preserve">
-    <value />
-  </data>
-  <data name="AccessibleNameClose" xml:space="preserve">
-    <value />
-  </data>
-  <data name="TabNew" xml:space="preserve">
-    <value>New Tab</value>
-  </data>
+  <metadata name="MenuStrip.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
 </root>

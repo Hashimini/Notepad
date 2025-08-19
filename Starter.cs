@@ -1,5 +1,4 @@
 ﻿using System; // Biblioteca padrao do .NET
-using System.Drawing;
 using System.Globalization;
 using System.Threading;
 using System.Windows.Forms; // Biblioteca principal do windows forms

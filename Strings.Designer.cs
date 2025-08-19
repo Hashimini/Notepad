@@ -61,6 +61,114 @@ namespace Notepad {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to .
+        /// </summary>
+        public static string AccessibleDescriptionClose {
+            get {
+                return ResourceManager.GetString("AccessibleDescriptionClose", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to .
+        /// </summary>
+        public static string AccessibleDescriptionMenuFile {
+            get {
+                return ResourceManager.GetString("AccessibleDescriptionMenuFile", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to .
+        /// </summary>
+        public static string AccessibleDescriptionMenuNew {
+            get {
+                return ResourceManager.GetString("AccessibleDescriptionMenuNew", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to .
+        /// </summary>
+        public static string AccessibleDescriptionMenuOpen {
+            get {
+                return ResourceManager.GetString("AccessibleDescriptionMenuOpen", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to .
+        /// </summary>
+        public static string AccessibleDescriptionMenuStrip {
+            get {
+                return ResourceManager.GetString("AccessibleDescriptionMenuStrip", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to .
+        /// </summary>
+        public static string AccessibleDescriptionProgram {
+            get {
+                return ResourceManager.GetString("AccessibleDescriptionProgram", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to .
+        /// </summary>
+        public static string AccessibleNameClose {
+            get {
+                return ResourceManager.GetString("AccessibleNameClose", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to .
+        /// </summary>
+        public static string AccessibleNameMenuFile {
+            get {
+                return ResourceManager.GetString("AccessibleNameMenuFile", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to .
+        /// </summary>
+        public static string AccessibleNameMenuNew {
+            get {
+                return ResourceManager.GetString("AccessibleNameMenuNew", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to .
+        /// </summary>
+        public static string AccessibleNameMenuOpen {
+            get {
+                return ResourceManager.GetString("AccessibleNameMenuOpen", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to .
+        /// </summary>
+        public static string AccessibleNameMenuStrip {
+            get {
+                return ResourceManager.GetString("AccessibleNameMenuStrip", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to .
+        /// </summary>
+        public static string AccessibleNameProgram {
+            get {
+                return ResourceManager.GetString("AccessibleNameProgram", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to About.
         /// </summary>
         public static string MenuAbout {
@@ -129,6 +237,15 @@ namespace Notepad {
         public static string MenuSave {
             get {
                 return ResourceManager.GetString("MenuSave", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to New Tab.
+        /// </summary>
+        public static string TabNew {
+            get {
+                return ResourceManager.GetString("TabNew", resourceCulture);
             }
         }
         
