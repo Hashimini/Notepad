@@ -61,7 +61,7 @@ namespace Notepad {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to .
+        ///   Looks up a localized string similar to Close the app.
         /// </summary>
         public static string AccessibleDescriptionClose {
             get {
@@ -70,7 +70,7 @@ namespace Notepad {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to .
+        ///   Looks up a localized string similar to Shows more options File related.
         /// </summary>
         public static string AccessibleDescriptionMenuFile {
             get {
@@ -79,7 +79,7 @@ namespace Notepad {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to .
+        ///   Looks up a localized string similar to Creates a new tab.
         /// </summary>
         public static string AccessibleDescriptionMenuNew {
             get {
@@ -88,7 +88,7 @@ namespace Notepad {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to .
+        ///   Looks up a localized string similar to Open a new tab with an existing File.
         /// </summary>
         public static string AccessibleDescriptionMenuOpen {
             get {
@@ -97,7 +97,7 @@ namespace Notepad {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to .
+        ///   Looks up a localized string similar to An options menu strip.
         /// </summary>
         public static string AccessibleDescriptionMenuStrip {
             get {
@@ -106,7 +106,7 @@ namespace Notepad {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to .
+        ///   Looks up a localized string similar to This is a notepad app, that can handle multiple tabs for file editing.
         /// </summary>
         public static string AccessibleDescriptionProgram {
             get {
@@ -115,7 +115,7 @@ namespace Notepad {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to .
+        ///   Looks up a localized string similar to Close app.
         /// </summary>
         public static string AccessibleNameClose {
             get {
@@ -124,7 +124,7 @@ namespace Notepad {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to .
+        ///   Looks up a localized string similar to File options.
         /// </summary>
         public static string AccessibleNameMenuFile {
             get {
@@ -133,7 +133,7 @@ namespace Notepad {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to .
+        ///   Looks up a localized string similar to New tab.
         /// </summary>
         public static string AccessibleNameMenuNew {
             get {
@@ -142,7 +142,7 @@ namespace Notepad {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to .
+        ///   Looks up a localized string similar to Open file.
         /// </summary>
         public static string AccessibleNameMenuOpen {
             get {
@@ -151,7 +151,7 @@ namespace Notepad {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to .
+        ///   Looks up a localized string similar to Options menu.
         /// </summary>
         public static string AccessibleNameMenuStrip {
             get {
@@ -160,7 +160,7 @@ namespace Notepad {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to .
+        ///   Looks up a localized string similar to Notepad.
         /// </summary>
         public static string AccessibleNameProgram {
             get {

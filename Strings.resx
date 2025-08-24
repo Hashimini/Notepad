@@ -148,40 +148,40 @@
     <value>Its very simple. You can start writing and then go on File -&gt; Save, then you choose where to save and what name. You can also go on File -&gt; Open to load an already written File!.</value>
   </data>
   <data name="AccessibleDescriptionProgram" xml:space="preserve">
-    <value />
+    <value>This is a notepad app, that can handle multiple tabs for file editing</value>
   </data>
   <data name="AccessibleNameProgram" xml:space="preserve">
-    <value />
+    <value>Notepad</value>
   </data>
   <data name="AccessibleDescriptionMenuStrip" xml:space="preserve">
-    <value />
+    <value>An options menu strip</value>
   </data>
   <data name="AccessibleNameMenuStrip" xml:space="preserve">
-    <value />
+    <value>Options menu</value>
   </data>
   <data name="AccessibleDescriptionMenuFile" xml:space="preserve">
-    <value />
+    <value>Shows more options File related</value>
   </data>
   <data name="AccessibleNameMenuFile" xml:space="preserve">
-    <value />
+    <value>File options</value>
   </data>
   <data name="AccessibleDescriptionMenuNew" xml:space="preserve">
-    <value />
+    <value>Creates a new tab</value>
   </data>
   <data name="AccessibleNameMenuNew" xml:space="preserve">
-    <value />
+    <value>New tab</value>
   </data>
   <data name="AccessibleDescriptionMenuOpen" xml:space="preserve">
-    <value />
+    <value>Open a new tab with an existing File</value>
   </data>
   <data name="AccessibleNameMenuOpen" xml:space="preserve">
-    <value />
+    <value>Open file</value>
   </data>
   <data name="AccessibleDescriptionClose" xml:space="preserve">
-    <value />
+    <value>Close the app</value>
   </data>
   <data name="AccessibleNameClose" xml:space="preserve">
-    <value />
+    <value>Close app</value>
   </data>
   <data name="TabNew" xml:space="preserve">
     <value>New Tab</value>

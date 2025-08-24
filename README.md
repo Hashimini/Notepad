@@ -1,4 +1,4 @@
-# Notepad - C# Windows Forms
+﻿# Notepad - C# Windows Forms
 
 Hi! This is just a small personal project made for fun and learning purposes
 It's a simple Notepad app built with Windows Forms using C#.

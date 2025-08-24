@@ -117,77 +117,73 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="MenuSave" xml:space="preserve">
-    <value>Salvar</value>
-  </data>
-  <data name="AccessibleDescriptionMenuFile" xml:space="preserve">
-    <value />
-  </data>
-  <data name="AccessibleNameClose" xml:space="preserve">
-    <value />
-  </data>
-  <data name="TextHowToUse" xml:space="preserve">
-    <value>É muito simples. Você pode começar a escrever e ir em Arquivo -&gt; Salvar, e escolher onde salvar e o nome. Você também pode ir em Arquivo -&gt; Abrir para carregar um arquivo já escrito!</value>
+  <data name="TextAbout" xml:space="preserve">
+    <value>Olá! Isto foi feito apenas como um pequeno projeto pessoal😊. Você pode ver as atualizações em https://github.com/Hashimini/Notepad. E algumas instruções na seção de uso.</value>
   </data>
   <data name="MenuAbout" xml:space="preserve">
     <value>Sobre</value>
   </data>
-  <data name="MenuFile" xml:space="preserve">
-    <value>Arquivo</value>
-  </data>
-  <data name="AccessibleNameMenuNew" xml:space="preserve">
-    <value />
-  </data>
-  <data name="AccessibleDescriptionMenuOpen" xml:space="preserve">
-    <value />
-  </data>
-  <data name="MenuNew" xml:space="preserve">
-    <value>Novo</value>
-  </data>
-  <data name="AccessibleNameMenuStrip" xml:space="preserve">
-    <value />
-  </data>
-  <data name="AccessibleDescriptionMenuNew" xml:space="preserve">
-    <value />
-  </data>
   <data name="MenuClose" xml:space="preserve">
     <value>Sair</value>
   </data>
-  <data name="MenuOpen" xml:space="preserve">
-    <value>Abrir</value>
-  </data>
-  <data name="AccessibleDescriptionClose" xml:space="preserve">
-    <value />
-  </data>
-  <data name="MenuHowToUse" xml:space="preserve">
-    <value>Uso</value>
-  </data>
-  <data name="TabNew" xml:space="preserve">
-    <value>Nova Aba</value>
-  </data>
-  <data name="AccessibleNameProgram" xml:space="preserve">
-    <value />
-  </data>
-  <data name="AccessibleNameMenuFile" xml:space="preserve">
-    <value />
+  <data name="MenuFile" xml:space="preserve">
+    <value>Arquivo</value>
   </data>
   <data name="MenuHelp" xml:space="preserve">
     <value>Ajuda</value>
   </data>
-  <data name="AccessibleDescriptionMenuStrip" xml:space="preserve">
-    <value />
+  <data name="MenuHowToUse" xml:space="preserve">
+    <value>Uso</value>
   </data>
-  <data name="TextAbout" xml:space="preserve">
-    <value>Olá! Isto foi feito apenas como um pequeno projeto pessoal😊. Você pode ver as atualizações em https://github.com/Hashimini/Notepad. E algumas instruções na seção de uso.</value>
+  <data name="MenuNew" xml:space="preserve">
+    <value>Novo</value>
+  </data>
+  <data name="MenuOpen" xml:space="preserve">
+    <value>Abrir</value>
+  </data>
+  <data name="MenuSave" xml:space="preserve">
+    <value>Salvar</value>
+  </data>
+  <data name="TextHowToUse" xml:space="preserve">
+    <value>É muito simples. Você pode começar a escrever e ir em Arquivo -&gt; Salvar, e escolher onde salvar e o nome. Você também pode ir em Arquivo -&gt; Abrir para carregar um arquivo já escrito!</value>
   </data>
   <data name="AccessibleDescriptionProgram" xml:space="preserve">
-    <value />
+    <value>Este é um aplicativo de bloco de notas que pode lidar com várias guias para edição de arquivos</value>
+  </data>
+  <data name="AccessibleNameProgram" xml:space="preserve">
+    <value>Bloco de notas</value>
+  </data>
+  <data name="AccessibleDescriptionMenuStrip" xml:space="preserve">
+    <value>Um menu com opções</value>
+  </data>
+  <data name="AccessibleNameMenuStrip" xml:space="preserve">
+    <value>Menu de opções </value>
+  </data>
+  <data name="AccessibleDescriptionMenuFile" xml:space="preserve">
+    <value>Mostra mais opções relacionadas a manipulacao de arquivos</value>
+  </data>
+  <data name="AccessibleNameMenuFile" xml:space="preserve">
+    <value>Opções dos aquivos</value>
+  </data>
+  <data name="AccessibleDescriptionMenuNew" xml:space="preserve">
+    <value>Cria uma nova aba</value>
+  </data>
+  <data name="AccessibleNameMenuNew" xml:space="preserve">
+    <value>Nova tab</value>
+  </data>
+  <data name="AccessibleDescriptionMenuOpen" xml:space="preserve">
+    <value>Abre uma nova aba com o arquivo selecionado</value>
   </data>
   <data name="AccessibleNameMenuOpen" xml:space="preserve">
-    <value />
+    <value>Abrir arquivo</value>
   </data>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="Screenshot 2025-08-10 014213" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>Resources\Screenshot 2025-08-10 014213.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="AccessibleDescriptionClose" xml:space="preserve">
+    <value>Fecha a aplicação</value>
+  </data>
+  <data name="AccessibleNameClose" xml:space="preserve">
+    <value>Fechar app</value>
+  </data>
+  <data name="TabNew" xml:space="preserve">
+    <value>Nova Aba</value>
   </data>
 </root>
