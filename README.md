@@ -17,6 +17,8 @@ You can follow updates at: [github.com/Hashimini/Notepad](https://github.com/Has
 
 <img width="740" height="483" alt="Screenshot 2025-08-24 121723" src="https://github.com/user-attachments/assets/2afce9db-da9e-4332-98b0-baee22d2d5d8" />
 
+---
+
 <img width="740" height="483" alt="image" src="https://github.com/user-attachments/assets/2339231a-d2f1-47a4-a7f0-a0e35ce0eb7c" />
 
 - Now it has acessibility Names and descriptions.
@@ -44,3 +46,4 @@ You can follow updates at: [github.com/Hashimini/Notepad](https://github.com/Has
 - Visual Studio
 - ResX localization
 - Inno Setup
+
