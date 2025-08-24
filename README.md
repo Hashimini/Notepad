@@ -7,40 +7,40 @@ You can follow updates at: [github.com/Hashimini/Notepad](https://github.com/Has
 
 ---
 
-## Screenshot?
+# New 1.1 Release!
 
-<img width="1143" height="608" alt="Screenshot 2025-08-13 131957" src="https://github.com/user-attachments/assets/3efb05fd-61f4-4ff3-a79f-2b2f1f58f359" />
+## New features:
 
+- Now you can have multiple tabs open at the same time!
+
+### Screenshot
+
+<img width="740" height="483" alt="Screenshot 2025-08-24 121723" src="https://github.com/user-attachments/assets/2afce9db-da9e-4332-98b0-baee22d2d5d8" />
+
+<img width="740" height="483" alt="image" src="https://github.com/user-attachments/assets/2339231a-d2f1-47a4-a7f0-a0e35ce0eb7c" />
+
+- Now it has acessibility Names and descriptions.
+- Minor changes to memory managment
+- Minor changes to the interface
 
 ---
 
-## Features?
+## More to come
 
-- Create, open and save .txt files
-- Multi-line text editor with scrollbars
-- Auto-saves the window size and position
-- Supports multiple languages (English and Portuguese)
-- Custom application icon
-- Lightweight and fast
+- Support to other file formats (Like .md or .html)
+- Custom theme support
+- Perfect functionality for only Keyboard users
+- Dark mode
+- Last session saves
+- Auto save for edited files
 
 ---
 
 ## Tech used
+
 - C#
 - Windows Forms
 - .NET
 - Visual Studio
 - ResX localization
-
----
-
-## Usage?
-
-It's super simple!
-
-- Start writing anything.
-- Go to *File → Save* to choose where and what name to save it as.
-- Or use *File → Open* to load an existing .txt file.
-- Use the *Help* menu to learn more or see app info.
-
----
+- Inno Setup
