@@ -47,3 +47,10 @@ You can follow updates at: [github.com/Hashimini/Notepad](https://github.com/Has
 - ResX localization
 - Inno Setup
 
+---
+
+## Virus Total
+
+For some reason some antivirus may think that my program is an trojan. Probabbly because of the stream reader and the way he handle File Opening... Well... There is nothing I can do about that.
+
+[Virus Total](https://www.virustotal.com/gui/file/2558b40cc55754de2de442c96709de81cc78b1d2b393d821317da97314f464cc/detection)
